@@ -1,0 +1,91 @@
+body{
+    text-align: center;
+    background-color: mediumpurple;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: white;
+}
+
+h1{
+    color: lightpink;
+}
+
+.valentines{
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+.button{
+    background-color: lightpink;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.button:hover{
+    background-color: hotpink;
+    border-radius: 10px;
+}
+
+.container{
+    background-color: lightpink;
+    width: 600px;
+    max-width: 1000px;
+    margin: 100px auto;
+    border-radius: 10px;
+    height: 150px;
+    max-height: 200px   ;
+}
+.answer{
+    margin: auto;
+    text-align: center;
+    background: lightpink;
+}
+#btn1{
+    background-color: lightpink;
+    border-radius: 10px;
+    margin: auto;
+    width: 200px;
+    height: 60px;
+}
+
+#btn2{
+    background-color: lightpink;
+    border-radius: 10px;
+    margin: auto;
+    width: 200px;
+    height: 60px;
+}
+
+#next-button{
+    background-color: lightpink;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 200px;
+    height: 60px;
+}
+#btn1:hover{
+    background-color: hotpink;
+}
+#btn2:hover{
+    background-color: hotpink;
+}
+#next-button:hover{
+    background-color: hotpink;
+}
+
+.body{
+    background-color: red;
+}
+
+img{
+    margin: 100px auto;
+}
+.sider{
+    margin-right: 5000px;
+    margin-bottom: 7000px;
+    width: 600px;
+    height: 600px;
+}
+
